@@ -1,4 +1,3 @@
-desktop.ini
 ._.git
 ._.gitignore
 ._.idea
@@ -9,20 +8,11 @@ desktop.ini
 ._miniProjet
 ._readme.md
 ._assets
+.DS_Store
+.idea/
+.vscode/
+desktop.ini
 exercises/practice20/readme.md
-.vscode/settings.json
-.idea/inspectionProfiles/._profiles_settings.xml
-.idea/._dataSources.local.xml
-.idea/._dataSources.xml
-.idea/._.gitignore
-.idea/._icon.svg
-.idea/._inspectionProfiles
-.idea/._misc.xml
-.idea/._modules.xml
-.idea/._Python.iml
-.idea/._vcs.xml
-.idea/._workspace.xml
-.vscode/._settings.json
 exercises/practice1/._main.py
 exercises/practice2/._main.py
 exercises/practice3/._main.py
@@ -707,6 +697,7 @@ Anaconda/netflix/machineLearning/makeRecommendations/._netflix.py
 Anaconda/netflix/machineLearning/similarity/._netflix.py
 Anaconda/netflix/machineLearning/similarity/._netflix.zip
 Anaconda/netflix/machineLearning/similarity/netflix.zip
+assets/.DS_Store
 assets/images/._greenSnakeCircleDesign.png
 assets/logo/._Anaconda.svg
 assets/logo/._Jupyter.svg
@@ -731,4 +722,9 @@ Anaconda/usUniversities/analysis/._usUniversities.py
 Anaconda/usUniversities/analysis/._usUniversities.zip
 Anaconda/usUniversities/analysis/usUniversities.zip
 Anaconda/usUniversities/._data_universite.xlsx
+docs/.DS_Store
 miniProjets/._fileStructure
+ENTREZ_UN_CHEMIN_DE_DOSSIER/.DS_Store
+exercises/.DS_Store
+miniProjets/.DS_Store
+projets/.DS_Store
