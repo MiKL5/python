@@ -13,7 +13,7 @@
 ## **Miniprojets**
 👉 [**Tout voir**](miniProjets)
 <!-- ## [**Exercices**](exercises) -->
-<div align="center"><a href="Anaconda"><img src="assets/images/snake.png" alt="Python" width="150px"></a>
+<div align="center"><br><br><a href="Anaconda"><img src="assets/images/snake.png" alt="Python" width="150px"></a>
 <h2 align="center"><b>🔗 Sujets connexes</b></h2>
 
 🧠 [Data science](https://github.com/MiKL5/DataScience)  
