@@ -3,9 +3,11 @@
 ## **Data Science**
 <!--[Analyse des données de Netflix](https://github.com/MiKL5/DataScience/blob/master/Anaconda/netflix)  
 [Analyse des données des universités américaines](https://github.com/MiKL5/DataScience/blob/master/Anaconda/usUniversities)-->
-👉 [**Tout voir**](https://github.com/MiKL5/DataScience)
+👉 [**Tout voir**](https://github.com/MiKL5/data-science-projects)
+<!-- ## **Data Engineering**
+👉 [**Tout voir**](https://github.com/MiKL5/data-engineering) -->
 ## **Machine learning**
-👉 [**Tout voir**](https://github.com/MiKL5/machineLearning)
+👉 [**Tout voir**](https://github.com/MiKL5/machine-learning-projects)
 ## **Web scraping**
 👉 [**Tout voir**](https://github.com/MiKL5/Web-scraping)
 ## **Projets**
