@@ -10,7 +10,7 @@
 [Diviser le code dans plusieurs fichiers](../exercises/practice21)  
 [Les itérateurs](../exercises/practice22)  
 
-> ## **Le framework** <a href="qt"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/langfr-2560px-Qt_logo_neon_2022.svg.png" alt="Qt" widht="auto" height="36px"></a>
+> ## **Le framework** <a href="qt"><img align="center" src="https://www.qt.io/hs-fs/hubfs/Qt-logo-neon_900px.png?width=300&height=214&name=Qt-logo-neon_900px.png" alt="Qt" widht="auto" height="36px"></a>
 
 [Définition](qt "Qu'est que le framework Qt")  
 [Les bindings](qt/bindings "Les bindings")  
@@ -24,7 +24,7 @@
 [L'ORM](django/orm)
 [Les paramètres `blank` ou `null`](django/blankNull)
 
-> ## **L'environnement de développement interactif** <a href="jupyter"><img align="center" src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" height="36px"></a>
+> ## **L'environnement de développement interactif**<a href="https://github.com/MiKL5/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/white"><source media="(prefers-color-scheme: light)" srcset="assets/images/Jupyter.svg"><img src="assets/images/Jupyter.svg" alt="Jupyter Notebook" align="right" height="36"></picture></a>
 [Définition](jupyter)
 
 > ## **Bibliothèque de ML et DL**
