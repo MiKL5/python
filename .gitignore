@@ -9,8 +9,6 @@
 ._readme.md
 ._assets
 .DS_Store
-.idea/
-.vscode/
 desktop.ini
 exercises/practice20/readme.md
 exercises/practice1/._main.py
