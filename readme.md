@@ -6,9 +6,9 @@
 
 <p align="center">Un carnet de route en Python : des premiers exercices de syntaxe jusqu'aux applications complètes. Ce dépôt est le point d'entrée, les dépôts thématiques prolongent le parcours vers la data science, le machine learning et le scraping.</p>
 
-<h2><a href="projects">Projets <span aria-hidden="true">🚀</span></a></h2>
+<h2><a href="projects">Projets </a><span aria-hidden="true">🚀</span></h2>
 <!--Applications abouties : chatbot basé sur l'IA générative, casseur de mot de passe et projets Django.-->
-<h2><a href="mini_projects">Mini-projets <span aria-hidden="true">🧩</span></a></h2>
+<h2><a href="mini_projects">Mini-projets </a><span aria-hidden="true">🧩</span></h2>
 
 Petits programmes ciblés : chacun fixe une notion, du calcul au traitement de fichiers.
 
@@ -29,13 +29,13 @@ Un projet qui importe une bibliothèque tierce (pandas, matplotlib, etc.) exige 
 
 </details>
 
-<h2><a href="https://github.com/MiKL5/data-science-projects">Data science <span aria-hidden="true">🧠</span></a></h2>
+<h2><a href="https://github.com/MiKL5/data-science-projects">Data science </a><span aria-hidden="true">🧠</span></h2>
 Nettoyage, exploration, visualisation et modélisation statistique.
 
-<h2><a href="https://github.com/MiKL5/machine-learning-projects">Machine learning <span aria-hidden="true">🤖</span></a></h2>
+<h2><a href="https://github.com/MiKL5/machine-learning-projects">Machine learning </a><span aria-hidden="true">🤖</span></h2>
 Apprentissage supervisé, semi-supervisé et non supervisé.
 
-<h2><a href="https://github.com/MiKL5/data-scraping">Data scraping <span aria-hidden="true">🕷️</span></a></h2>
+<h2><a href="https://github.com/MiKL5/data-scraping">Data scraping </a><span aria-hidden="true">🕷️</span></h2>
 Collecte et structuration de données avec Requests, Beautiful Soup et Scrapy.
 
 <!-- ## [**Exercices**](exercises) -->
