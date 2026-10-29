@@ -49,4 +49,5 @@ Collecte et structuration de données avec Requests, Beautiful Soup et Scrapy.
 
 <hr>
 <h2 align="center">Licence</h2>
+
 Le code original est parfois publié sous licence [MIT](LICENSE). Les jeux de données, logos et supports de cours tiers conservent leur licence d'origine.
